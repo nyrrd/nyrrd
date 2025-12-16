@@ -1,0 +1,6 @@
+<p align="center">
+  <samp>
+    <a href="https://nyrrd.xyz">home</a> ⏺
+    <a href="https://github.com/nyrrd/dotfiles">dotfiles</a>
+  </samp>
+</p>
